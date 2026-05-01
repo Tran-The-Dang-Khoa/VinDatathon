@@ -1,8 +1,8 @@
-# [cite_start]VinDatathon 2026 - THE GRIDBREAKER 
-### [cite_start]Team: CUTIE KT 
-[cite_start]**Thành viên:** Trần Thế Đăng Khoa & Hoàng Bảo Trân 
+#VinDatathon 2026 - THE GRIDBREAKER 
+### Team: CUTIE KT 
+**Thành viên:** Trần Thế Đăng Khoa & Hoàng Bảo Trân 
 
-[cite_start]Dự án tập trung giải quyết bài toán tối ưu hóa vận hành và dự báo doanh thu dựa trên bộ dữ liệu thương mại điện tử gồm 13 bảng liên kết[cite: 8].
+Dự án tập trung giải quyết bài toán tối ưu hóa vận hành và dự báo doanh thu dựa trên bộ dữ liệu thương mại điện tử gồm 13 bảng liên kết.
 
 ---
 
