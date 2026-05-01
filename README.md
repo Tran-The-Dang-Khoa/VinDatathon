@@ -1,2 +1,6 @@
 # VinDatathon_CUTIEKT
-File narrative sẽ sử dụng các tập dữ liệu do đề bài cung cấp để thực hiện phân tích khám phá dữ liệu (EDA), nhằm hiểu rõ đặc điểm, xu hướng và các mối quan hệ quan trọng trong dữ liệu. Trên cơ sở đó, file reEDA đóng vai trò xử lý và chuẩn bị dữ liệu, bao gồm việc làm sạch, biến đổi và tạo các đặc trưng cần thiết, từ đó tạo ra bộ dữ liệu đầu ra phù hợp và nhất quán. Cuối cùng, file revenue_forecast sẽ sử dụng bộ dữ liệu đã được xử lý này để xây dựng và triển khai các mô hình dự báo doanh thu, đảm bảo kết quả dự báo có độ chính xác và tính ứng dụng cao. Phần sales_test.csv là phần nhóm đã chuẩn bị cho việc dự báo kết quả
+File EDA_narrative.ipynb sẽ sử dụng các tập dữ liệu do đề bài cung cấp để thực hiện phân tích khám phá dữ liệu (EDA), nhằm hiểu rõ đặc điểm, xu hướng và các mối quan hệ quan trọng trong dữ liệu. 
+
+Trên cơ sở đó, file reEDA đóng vai trò xử lý và chuẩn bị dữ liệu, bao gồm việc làm sạch, biến đổi và tạo các đặc trưng cần thiết, từ đó tạo ra bộ dữ liệu đầu ra phù hợp và nhất quán, sẵn sàng cho việc dự báo bằng file out.csv. 
+
+Cuối cùng, file revenue_forecast sẽ sử dụng bộ dữ liệu đã được xử lý này để xây dựng và triển khai các mô hình dự báo doanh thu, đảm bảo kết quả dự báo có độ chính xác và tính ứng dụng cao. Từ đó xuất ra sales_test.csv - là phần nhóm đã chuẩn bị cho việc dự báo kết quả.
